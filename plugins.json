@@ -6,5 +6,18 @@
     "repo": "https://github.com/Xbodwf/astrbot_plugin_fortnue",
     "tags": ["今日运势","二次元"],
     "social_link": "https://github.com/Xbodwf"
-  }
+  },
+  "astrbot_plugin_code_renderer": {
+    "display_name": "代码渲染器",
+    "desc": "将代码信息或者代码文件渲染为带有语法高亮的图片",
+    "author": "Xbodw",
+    "repo": "https://github.com/Xbodwf/astrbot_plugin_code_renderer",
+    "tags": [
+      "代码",
+      "渲染",
+      "语法高亮",
+      "图片",
+      "playwright"
+    ],
+    "social_link": "https://github.com/Xbodwf"
 }
