@@ -1,0 +1,10 @@
+{
+  "astrbot_plugin_fortune": {
+    "display_name": "今日运势",
+    "desc": "生成一张包含多种信息的二次元今日运势图片",
+    "author": "Xbodwf",
+    "repo": "https://github.com/Xbodwf/astrbot_plugin_fortnue",
+    "tags": ["今日运势","二次元"],
+    "social_link": "https://github.com/Xbodwf"
+  }
+}
